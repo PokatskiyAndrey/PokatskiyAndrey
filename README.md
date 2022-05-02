@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PokatskiyAndrey
+- 👋 Hi, I’m Pokatskiy Andrey
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andrey.pokatskiy@gmail.com
+- I will be hapy if you visit my bot "https://t.me/RockrsPaperScissorsBot"
 
 
 <!---
